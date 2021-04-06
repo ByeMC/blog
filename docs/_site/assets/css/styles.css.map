@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\r\n",
+		".current {\r\n    color: green;\r\n}\r\n\r\ndiv.menu {\r\n    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;\r\n    background-color: dimgray\r\n}\r\n\r\nh1 {\r\n    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;\r\n    font-size: 32px;\r\n}\r\n\r\nh1.title {\r\n    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;\r\n    font-size: 48px;\r\n    float: right\r\n}\r\n\r\nh4.menu {\r\n    font-size: 24px;\r\n    float: left\r\n}\r\n\r\na:link {\r\n    color: black\r\n}\r\n\r\na:visited {\r\n    color: black\r\n}\r\n\r\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACf;;AAED,AAAA,GAAG,AAAA,KAAK,CAAC,EACL,WAAW,EAAE,gEAAgE,EAC7E,gBAAgB,EAAE,OACtB,GAAC;;AAED,AAAA,EAAE,CAAC,EACC,WAAW,EAAE,gEAAgE,EAC7E,SAAS,EAAE,IAAI,GAClB;;AAED,AAAA,EAAE,AAAA,MAAM,CAAC,EACL,WAAW,EAAE,2DAA2D,EACxE,SAAS,EAAE,IAAI,EACf,KAAK,EAAE,KACX,GAAC;;AAED,AAAA,EAAE,AAAA,KAAK,CAAC,EACJ,SAAS,EAAE,IAAI,EACf,KAAK,EAAE,IACX,GAAC;;AAED,AAAA,CAAC,CAAC,IAAI,CAAC,EACH,KAAK,EAAE,KACX,GAAC;;AAED,AAAA,CAAC,CAAC,OAAO,CAAC,EACN,KAAK,EAAE,KACX,GAAC"
+}
